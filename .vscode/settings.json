@@ -90,5 +90,11 @@
     ],
   },
   "java.debug.settings.onBuildFailureProceed": true,
-  "java.compile.nullAnalysis.mode": "disabled"
+  "java.compile.nullAnalysis.mode": "disabled",
+  "azureFunctions.deploySubpath": "samples/dotnet/KernelHttpServer/bin/Release/net6.0/publish",
+  "azureFunctions.projectLanguage": "C#",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectSubpath": "samples/dotnet/KernelHttpServer",
+  "azureFunctions.preDeployTask": "publish (functions)"
 }
