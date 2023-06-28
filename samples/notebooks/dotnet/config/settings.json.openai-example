@@ -2,6 +2,6 @@
   "type":   "openai",
   "endpoint": "NOT-USED-BUT-REQUIRED-FOR-PARSER",
   "model":  "text-davinci-003",
-  "apikey": "... your OpenAI key ...",
-  "org":    ""
+  "apikey": "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",
+  "org":    "Personal"
 }
